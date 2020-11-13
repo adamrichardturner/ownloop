@@ -1,0 +1,22 @@
+{
+  "name": "ownloop",
+  "version": "1.0.0",
+  "description": "Higher Order Function Simulating a For Loop - TDD Exercise with Mocha",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamrichardturner/ownloop.git"
+  },
+  "author": "Adam Turner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamrichardturner/ownloop/issues"
+  },
+  "homepage": "https://github.com/adamrichardturner/ownloop#readme",
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  }
+}
